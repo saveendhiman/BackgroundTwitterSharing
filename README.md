@@ -1,6 +1,6 @@
 # Background Twitter Sharing Sample for android
 
-Hi guys, I have made one sample for twitter sharing.You can sharing both image and text in this sample.It is useful, whose are looking for background sharing in android.
+Hi guys, I have made one sample for twitter sharing.You can share both image and text in this sample.It is useful, whose are looking for background sharing in android.
 
 I have added security permissions as well.If somebody looking for. They can check and understand easily.
 
